@@ -12,7 +12,7 @@
   library(data.table)  
   # max(sets$measurement), min(sets$measurement), mean(sets$measurement)
 
-  path = "./AssignmentDataSet/"
+  path = "./Samsung data/"
   
   #test / train variable
   group_names <- c("test","train")
